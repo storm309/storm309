@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-cartoon&psig=AOvVaw2bbUhuWj1iq1Nu0ISTuPSn&ust=1738592047791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD2k6aWpYsDFQAAAAAdAAAAABAE" alt="">
 
 - 🔭 I’m currently working on **Ecommerce website**
 
