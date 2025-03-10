@@ -1,17 +1,19 @@
+---
+
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 <p align="center">
   🔭 I’m currently working on an <strong>E-commerce Website</strong> <br>
-  🌱 I’m learning <strong>Data Structures & Algorithms (DSA) and Advanced Web Development</strong> <br>
+  🌱 I’m diving deeper into <strong>Data Structures & Algorithms (DSA) and Advanced Web Development</strong> <br>
   💬 Ask me about <strong>C, C++, Java, Python, and Fullstack Development</strong> <br>
-  👨‍💻 Check out my projects: <a href="https://shivamstorm.netlify.app/" target="_blank"><strong>Portfolio</strong></a> <br>
-  📫 How to reach me: <strong>shivamkumarp447@gmail.com</strong>
+  👨‍💻 Explore my work: <a href="https://shivamstorm.netlify.app/" target="_blank"><strong>Portfolio</strong></a> <br>
+  📫 Reach me at: <strong>shivamkumarp447@gmail.com</strong>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/pandey--shivam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,4 +58,6 @@
 
 ---
 
-🔥 **"Code with passion, build with purpose!"**  
+🔥 **"Code with passion, build with purpose!"**
+
+---
