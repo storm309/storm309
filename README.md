@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shivam%20Pandey&fontSize=70&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
 
 ### A Passionate Fullstack & Android Developer from India 🇮🇳
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=8000FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Android+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Android+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG">
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=storm309&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
 ### 📝 About Me
 
@@ -20,7 +22,7 @@
 - 📫 &nbsp; How to reach me: **shivamkumarp447@gmail.com**
 - 👨‍💻 &nbsp; Check out my projects: <a href="https://shivamstorm.netlify.app/" target="_blank">**Portfolio**</a>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
 ### 🌐 Connect with Me
 
@@ -39,7 +41,7 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
 ### 🚀 My Tech Stack
 
@@ -56,17 +58,20 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=light" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-lime-three-42.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats-lime-three-42.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-lime-three-42.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats-lime-three-42.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
 ### 🏆 LeetCode Stats
 
@@ -78,8 +83,8 @@
 
 <div align="center">
 
----
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
+
 🔥 **"Code with passion, build with purpose!"**
----
 
 </div>
