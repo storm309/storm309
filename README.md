@@ -61,15 +61,15 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-shivam-pandeys-projects-974d6a74.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-lime-three-42.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=storm309&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats-git-master-shivam-pandeys-projects-974d6a74.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-lime-three-42.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-.vercel.app/graph?username=storm309&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph">
 </p>
 
 ---
