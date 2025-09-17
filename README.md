@@ -61,11 +61,11 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-master-shivam-pandeys-projects-974d6a74.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=storm309&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-git-master-shivam-pandeys-projects-974d6a74.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
