@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+<div align="center">
 
-<p align="center">
-  🔭 I’m currently working on an <strong>E-commerce Website</strong> <br>
-  🌱 I’m learning <strong>Data Structures & Algorithms (DSA) and Advanced Web Development</strong> <br>
-  💬 Ask me about <strong>C, C++, Java, Python, and Fullstack Development</strong> <br>
-  👨‍💻 Check out my projects: <a href="https://shivamstorm.netlify.app/" target="_blank"><strong>Portfolio</strong></a> <br>
-  📫 How to reach me: <strong>shivamkumarp447@gmail.com</strong>
-</p>
+# Hi 👋, I'm Shivam Pandey
+
+### A Passionate Fullstack & Android Developer from India 🇮🇳
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=8000FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Android+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG">
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+### 📝 About Me
+
+- 🔭 &nbsp; I’m currently working on an **E-commerce Website**.
+- 🌱 &nbsp; I’m learning **Data Structures & Algorithms (DSA)** and **Advanced Android Development**.
+- 💬 &nbsp; Ask me about **Web Development, Android, C++, Java, and Python**.
+- 📫 &nbsp; How to reach me: **shivamkumarp447@gmail.com**
+- 👨‍💻 &nbsp; Check out my projects: <a href="https://shivamstorm.netlify.app/" target="_blank">**Portfolio**</a>
+
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pandey--shivam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -29,31 +41,51 @@
 
 ---
 
-## 🚀 Languages & Tools  
+### 🚀 My Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,nodejs,mysql,react,git&theme=light" />
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,kotlin&theme=light" /><br>
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,materialui&theme=light" /><br>
+  <strong>Backend & Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase&theme=light" /><br>
+  <strong>Android Development</strong><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin&theme=light" /><br>
+  <strong>Tools & Platforms</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=light" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=storm309&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=storm309&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
----
-
-## 🏆 LeetCode Stats  
 <p align="center">
-  <a href="https://leetcode.com/shivam_2233/">
-    <img src="https://leetcard.jacoblin.cool/shivam_2233" alt="LeetCode Stats">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Activity Graph">
 </p>
 
 ---
 
-🔥 **"Code with passion, build with purpose!"**  
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/shivam_2233/">
+    <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Poppins" alt="LeetCode Stats">
+  </a>
+</p>
+
+<div align="center">
+
+---
+🔥 **"Code with passion, build with purpose!"**
+---
+
+</div>
