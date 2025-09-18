@@ -20,7 +20,7 @@
 - 🌱 &nbsp; I’m learning **Data Structures & Algorithms (DSA)** and **Advanced Android Development**.
 - 💬 &nbsp; Ask me about **Web Development, Android, C++, Java, and Python**.
 - 📫 &nbsp; How to reach me: **shivamkumarp447@gmail.com**
-- 👨‍💻 &nbsp; Check out my projects: <a href="https://shivamstorm.netlify.app/" target="_blank">**Portfolio**</a>
+- 👨‍💻 &nbsp; Check out my projects: <a href="shivam-portfolio-kohl.vercel.app" target="_blank">**Portfolio**</a>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
 
