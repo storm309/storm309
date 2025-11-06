@@ -16,7 +16,7 @@
 
 ### 📝 About Me
 
-- 🔭 &nbsp; I’m currently working on an **E-commerce Website**.
+- 🔭 &nbsp; I’m currently working on  **Ai Based Application**.
 - 🌱 &nbsp; I’m learning **Data Structures & Algorithms (DSA)** and **Advanced Android Development**.
 - 💬 &nbsp; Ask me about **Web Development, Android, C++, Java, and Python**.
 - 📫 &nbsp; How to reach me: **shivamkumarp447@gmail.com**
