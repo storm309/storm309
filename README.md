@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Pandey&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%26%20Android%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Pandey&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack+and+Android+Developer&descSize=20&descAlignY=58&descColor=a78bfa" alt="Header Banner"/>
 
 <br/>
 
@@ -70,7 +70,7 @@ email      : shivamkumarp447@gmail.com
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark" />
 </p>
 </details>
 
@@ -86,7 +86,7 @@ email      : shivamkumarp447@gmail.com
 <summary><b>📱 Android Development</b></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase&theme=dark" />
 </p>
 </details>
 
@@ -94,7 +94,11 @@ email      : shivamkumarp447@gmail.com
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,androidstudio&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 </details>
 
