@@ -1,90 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shivam%20Pandey&fontSize=70&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Pandey&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%26%20Android%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" alt="Header Banner"/>
 
-### A Passionate Fullstack & Android Developer from India 🇮🇳
+<br/>
 
-<a href="https://github.com/storm309">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Android+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG">
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+with+SpringBoot+%26+Android;💡+Solving+DSA+one+problem+at+a+time;🌐+Fullstack+Web+%26+Mobile+Developer;🔥+Let's+build+something+amazing!" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=storm309&style=flat-square&color=blueviolet" alt="Profile Views"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=storm309&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
+---
 
-### 📝 About Me
+## 👨‍💻 About Me
 
-- 🔭 &nbsp; I’m currently working on  **SpringBoot Based Application**.
-- 🌱 &nbsp; I’m learning **Data Structures & Algorithms (DSA)** and **Advanced Android Development**.
-- 💬 &nbsp; Ask me about **Web Development, Android, C++, Java, and Python**.
-- 📫 &nbsp; How to reach me: **shivamkumarp447@gmail.com**
-- 👨‍💻 &nbsp; Check out my projects: <a href="https://shivam-dev-portfolio.vercel.app/" target="_blank">**portfolio**</a>
+```yaml
+name       : Shivam Pandey
+location   : India 🇮🇳
+role       : Fullstack + Android Developer
+currently  : Building a SpringBoot-based Application
+learning   : DSA + Advanced Android Development
+ask me     : Web Dev · Android · C++ · Java · Python
+portfolio  : https://shivam-dev-portfolio.vercel.app/
+email      : shivamkumarp447@gmail.com
+```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
+---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pandey--shivam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/shivam_storm7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://leetcode.com/shivam_2233/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.hackerrank.com/profile/shivamkumarp447" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
-
-### 🚀 My Tech Stack
+## 🌐 Connect With Me
 
 <p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,kotlin&theme=light" /><br>
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,materialui&theme=light" /><br>
-  <strong>Backend & Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase&theme=light" /><br>
-  <strong>Android Development</strong><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin&theme=light" /><br>
-  <strong>Tools & Platforms</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=light" />
+  <a href="https://www.linkedin.com/in/pandey--shivam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/shivam_storm7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/shivam_2233/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/shivamkumarp447" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://shivam-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:shivamkumarp447@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
+---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,kotlin&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,materialui&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php,mysql,mongodb,firebase&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>📱 Android Development</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
-
-### 🏆 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/shivam_2233/">
-    <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Poppins" alt="LeetCode Stats">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 </p>
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/shivam_2233/">
+    <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=storm309&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line-separator.gif" alt="Animated Divider">
-
-🔥 **"Code with passion, build with purpose!"**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=🔥+Code+with+passion,+build+with+purpose!&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" alt="Footer"/>
 
 </div>
