@@ -128,12 +128,6 @@ email      : shivamkumarp447@gmail.com
 
 ---
 
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=storm309&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
