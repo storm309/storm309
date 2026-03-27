@@ -65,13 +65,13 @@ email      : shivamkumarp447@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=0" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=0&v=1" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=0" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=0&v=1" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0&v=1" height="170"/>
 </p>
 
 ---
