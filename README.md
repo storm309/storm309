@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+with+SpringBoot+%26+Android;💡+Solving+DSA+one+problem+at+a+time;🌐+Fullstack+Web+%26+Mobile+Developer;🔥+Let's+build+something+amazing!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+with+SpringBoot+%26+Android;💡+Solving+DSA+Daily;🌐+Fullstack+Web+%26+Mobile+Developer;🔥+Always+learning+new+things!" />
 
 <br/>
 
@@ -20,8 +20,9 @@
 name       : Shivam Pandey
 location   : India 🇮🇳
 role       : Fullstack + Android Developer
-currently  : Building a SpringBoot-based Application
+currently  : Building scalable apps using Spring Boot & Android
 learning   : DSA + Advanced Android Development
+interests  : System Design · AI · Clean Architecture
 ask me     : Web Dev · Android · C++ · Java · Python
 portfolio  : https://shivam-dev-portfolio.vercel.app/
 email      : shivamkumarp447@gmail.com
@@ -65,13 +66,13 @@ email      : shivamkumarp447@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=0&v=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=0" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=0&v=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=0" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0&v=1" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0" height="170"/>
 </p>
 
 ---
@@ -87,7 +88,11 @@ email      : shivamkumarp447@gmail.com
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code&ext=activity"/>
+  <!-- Stable + Updated Version -->
+  <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code&ext=heatmap&cache=0"/>
+  <br/>
+  <!-- Main Stats -->
+  <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code"/>
 </p>
 
 ---
@@ -97,6 +102,15 @@ email      : shivamkumarp447@gmail.com
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+I don’t just write code, I build solutions 🚀
+Consistency > Motivation 💯
+```
 
 ---
 
