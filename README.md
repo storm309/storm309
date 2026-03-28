@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+with+SpringBoot+%26+Android;💡+Solving+DSA+Daily;🌐+Fullstack+Web+%26+Mobile+Developer;🔥+Always+learning+new+things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+with+SpringBoot+%26+Android;💡+Solving+DSA+Daily;🌐+Fullstack+Developer;🔥+Always+Learning!" />
 
 <br/>
 
@@ -18,14 +18,10 @@
 
 ```yaml
 name       : Shivam Pandey
-location   : India 🇮🇳
 role       : Fullstack + Android Developer
-currently  : Building scalable apps using Spring Boot & Android
-learning   : DSA + Advanced Android Development
-interests  : System Design · AI · Clean Architecture
-ask me     : Web Dev · Android · C++ · Java · Python
-portfolio  : https://shivam-dev-portfolio.vercel.app/
-email      : shivamkumarp447@gmail.com
+location   : India 🇮🇳
+learning   : DSA + Advanced Android
+focus      : Clean Code · Scalable Systems
 ```
 
 ---
@@ -33,23 +29,14 @@ email      : shivamkumarp447@gmail.com
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pandey--shivam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/pandey--shivam/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/shivam_storm7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/shivam_2233/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shivamkumarp447" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://shivam-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://leetcode.com/shivam_2233/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="mailto:shivamkumarp447@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -58,7 +45,7 @@ email      : shivamkumarp447@gmail.com
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,kotlin,react,redux,tailwind,bootstrap,nodejs,express,spring,php,mysql,mongodb,firebase,git,github,vscode,postman,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,spring,mysql,mongodb,git,vscode&theme=dark"/>
 </p>
 
 ---
@@ -66,32 +53,24 @@ email      : shivamkumarp447@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=0" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=0" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=storm309&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&cache_seconds=0" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=storm309&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <!-- Stable + Updated Version -->
-  <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code&ext=heatmap&cache=0"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=storm309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <br/>
-  <!-- Main Stats -->
+  <img src="https://streak-stats.demolab.com?user=storm309&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies (FIXED)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=storm309&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats (CLEAN - NO DUPLICATE)
+
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/shivam_2233?theme=dark&font=Fira+Code"/>
 </p>
 
@@ -100,22 +79,13 @@ email      : shivamkumarp447@gmail.com
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-```text
-I don’t just write code, I build solutions 🚀
-Consistency > Motivation 💯
-```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=🔥+Code+with+passion,+build+with+purpose!&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn"/>
+🔥 Code with passion, build with purpose 🚀
 
 </div>
